@@ -6,11 +6,3 @@ Once you answer the question, click the submit button. At the end it will show h
 
 <p> Here is the screenshot of the application running and what the game looks like </p>
 
-<img width="664" alt="Screen Shot 2021-03-06 at 5 16 17 PM" src="https://user-images.githubusercontent.com/65043805/116444273-3236cb80-a81a-11eb-8719-4ab9d333ea18.png">
-
-<img width="716" alt="Screen Shot 2021-03-06 at 5 16 10 PM" src="https://user-images.githubusercontent.com/65043805/116444303-382cac80-a81a-11eb-9bd1-ff164d04258f.png">
-
-<img width="751" alt="Screen Shot 2021-03-06 at 5 16 31 PM" src="https://user-images.githubusercontent.com/65043805/116444367-467ac880-a81a-11eb-968b-30871be78662.png">
-
-
-<img width="725" alt="Screen Shot 2021-03-06 at 5 15 59 PM" src="https://user-images.githubusercontent.com/65043805/116444352-411d7e00-a81a-11eb-82b0-65663cfbf313.png">
